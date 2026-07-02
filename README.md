@@ -37,6 +37,14 @@ University-Management-Portal/
 │── contact.html
 └── README.md
 ```
+## Screenshots
+<img width="951" height="467" alt="Screenshot 2026-07-02 141420" src="https://github.com/user-attachments/assets/67a2b496-5665-4dcc-a3fa-90bb9095b8e4" />
+<img width="953" height="430" alt="Screenshot 2026-07-02 141456" src="https://github.com/user-attachments/assets/3e238d8c-2ace-4353-b891-5d4e384e2e03" />
+<img width="953" height="365" alt="Screenshot 2026-07-02 141515" src="https://github.com/user-attachments/assets/eb935e00-eb2f-4af4-97b0-d5bd09dd3aa8" />
+<img width="953" height="427" alt="Screenshot 2026-07-02 141543" src="https://github.com/user-attachments/assets/a85e154c-8641-4eed-8450-3ad4c0ac2adc" />
+<img width="953" height="433" alt="Screenshot 2026-07-02 141604" src="https://github.com/user-attachments/assets/a68af201-09cf-4cde-8a52-3b91e1c89d9a" />
+<img width="952" height="433" alt="Screenshot 2026-07-02 141622" src="https://github.com/user-attachments/assets/2ce8fbb5-aae5-471a-a2d5-b5f75ecaea55" />
+
 
 ## How to Run
 
